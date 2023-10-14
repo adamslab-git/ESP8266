@@ -1,7 +1,10 @@
 # ESP8266
 all about ESP8266
 
-August 21, 2020
+October 14, 2023
+
+![esp12](https://github.com/adamslab-git/ESP8266/assets/147629584/81ce4016-fc99-426e-ad56-9ea465dd223a)
+
 The ESP8266 - working with an ESP-12 module
 This is not the best way to get started with the ESP8266. You would be better served to purchase a NodeMCU board (and ditch Lua immediately). The cons of the ESP-12 are:
 
@@ -84,8 +87,15 @@ Don't get too excited about those "extra" pins on the bottom edge of the ESP-12E
 So why route them to the card edge? Beats me.
 Diagrams
 First here are two diagrams provided just to show the pinout for one of these. Note that one of the old ESP-12 will not have the pins on the bottom. These diagrams show the unit viewed from the top.
+![esp-12e-a](https://github.com/adamslab-git/ESP8266/assets/147629584/1adc00eb-a054-4184-b5e0-034aeff68f40)
+
 
 Everyone seems to have their own ideas about how to label the pins on the bottom.
 
+![esp-12e-b](https://github.com/adamslab-git/ESP8266/assets/147629584/e4530a60-c787-4d18-884f-06faeefa414e)
+
+
 And here is the schematic for the ESP-12F. Note that the ESP-12E and ESP-12F are said to be identical except for the antenna (which is better on the ESP-12F).
+![esp-12f-schem](https://github.com/adamslab-git/ESP8266/assets/147629584/2558a068-fea2-4850-b075-8bf48049926b)
+
 
